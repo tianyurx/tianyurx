@@ -1,54 +1,23 @@
 # Tianyu Zhou
 
-I build practical AI products, from native apps to tools for repeatable work.
+**AI product engineering** · 我把 AI 产品做成可操作、可审阅、可验证的工作流程。
 
-我关注 AI 产品、可靠的执行流程，以及从原型到可验证交付的工程实践。
+### OpsWitness · AI 工作台
 
-## OpsWitness — repeatable AI work
+**Creator & maintainer** — 从目标、审批到执行与证据；负责产品、系统架构、运行时集成和验证。
 
-**Creator & maintainer** · [GitHub](https://github.com/opswitness/opswitness) · [Website](https://opswitness.com/) · [Alpha release](https://github.com/opswitness/opswitness/releases/tag/v0.1.0-alpha.1)
+[▶ 30 秒 Demo](https://github.com/user-attachments/assets/c25a7297-7f43-49b3-a64b-29fb56cd83fa) · [测试版 Release](https://github.com/opswitness/opswitness/releases/tag/v0.1.0-alpha.1) · [源码与验证](https://github.com/opswitness/opswitness/tree/main/examples/showcase)
 
-A local-first AI workbench for solo operators: describe a goal, review the team and plan, confirm execution, and keep versions, results, approvals, and evidence together.
+**可试：** macOS 14+ / Apple Silicon 的 alpha.1 封闭测试构建，未公证；开发界面与下载版能力分开说明。
 
-My work spans product direction, system architecture, runtime integration, validation, and release preparation. Technical areas include:
+### 小满 · SwiftUI 个人助理
 
-- Reviewable workflow plans and immutable versions.
-- Human approvals, run history, and traceable outputs.
-- Local evidence storage and replaceable execution adapters.
+**Creator & developer** — 对话交办、主动简报、用户确认；SwiftUI + Python / FastAPI。
 
-**Status:** Community Alpha. The published build and development source have different capabilities; the release notes describe the exact download and its limitations.
+[▶ 75 秒 Demo](https://github.com/user-attachments/assets/76f77e46-9212-4272-99f8-a0d4b851fbde) · [演示范围与说明](https://github.com/tianyurx/tianyurx/blob/main/DEMO-NOTES.md#xiaoman)
 
-https://github.com/user-attachments/assets/d9749312-78c3-4119-9354-521f135f3316
+**可看：** 假数据模拟器截图导览；开发 MVP，源码私有，尚无公开安装包。真机与真实账户验收仍在推进。
 
-**[Watch the 75-second walkthrough](https://github.com/user-attachments/assets/d9749312-78c3-4119-9354-521f135f3316)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#opswitness)
+**第二条线：量化研究工程。** 因果信号、样本外验证、成本与风险归因；私有策略与账户信息不公开。
 
-*Screenshot walkthrough, not a continuous screen recording. Public development UI, synthetic DEMO-001 case. Download capabilities depend on the release.*
-
-## 小满 · Xiaoman — an iOS personal assistant
-
-**Creator & developer** · Development MVP · Private implementation
-
-小满把日历、提醒事项和随手记录汇集到一个入口，通过对话、主动汇报和用户确认来推进日常事务。
-
-An iOS assistant that brings calendars, reminders, and captured ideas into one place. My focus is product design, SwiftUI/Python integration, synchronization, and user-confirmed actions with receipts and undo.
-
-**Stack:** Swift / SwiftUI · Python / FastAPI · PostgreSQL
-
-**Status:** Local simulator demonstrations and ongoing development. Real-account and on-device acceptance remain part of the work before a broader release.
-
-https://github.com/user-attachments/assets/76f77e46-9212-4272-99f8-a0d4b851fbde
-
-**[Watch the 75-second walkthrough](https://github.com/user-attachments/assets/76f77e46-9212-4272-99f8-a0d4b851fbde)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#xiaoman)
-
-*Screenshot walkthrough, not a continuous screen recording. iOS simulator, replay model and fake data. The alarm example shows the decline path; no real alarm was installed.*
-
-## Quantitative research engineering
-
-**Private research project**
-
-I also develop multi-asset research infrastructure, with an emphasis on causal features, chronological validation, transaction costs, risk controls, and reproducible backtests.
-
-## How I work
-
-I use AI-assisted development alongside explicit specifications, code review, tests, and hands-on validation. I care about making behavior explainable and keeping prototype, tested, and released capabilities clearly distinguished.
-
+两段 Demo 均为界面截图导览。使用 AI 辅助开发，并通过规格、代码审阅、测试和人工验证确认行为。
