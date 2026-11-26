@@ -18,9 +18,9 @@ My work spans product direction, system architecture, runtime integration, valid
 
 **Status:** Community Alpha. The published build and development source have different capabilities; the release notes describe the exact download and its limitations.
 
-[![OpsWitness: 75-second narrated screenshot walkthrough](opswitness-cover.jpg)](https://github.com/tianyurx/tianyurx/blob/main/opswitness-walkthrough-75s.mp4)
+https://github.com/user-attachments/assets/d9749312-78c3-4119-9354-521f135f3316
 
-**[Watch the 75-second walkthrough](https://github.com/tianyurx/tianyurx/blob/main/opswitness-walkthrough-75s.mp4)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#opswitness)
+**[Watch the 75-second walkthrough](https://github.com/user-attachments/assets/d9749312-78c3-4119-9354-521f135f3316)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#opswitness)
 
 *Screenshot walkthrough, not a continuous screen recording. Public development UI, synthetic DEMO-001 case. Download capabilities depend on the release.*
 
@@ -36,9 +36,9 @@ An iOS assistant that brings calendars, reminders, and captured ideas into one p
 
 **Status:** Local simulator demonstrations and ongoing development. Real-account and on-device acceptance remain part of the work before a broader release.
 
-[![小满 · Xiaoman: 75-second narrated screenshot walkthrough](xiaoman-cover.jpg)](https://github.com/tianyurx/tianyurx/blob/main/xiaoman-walkthrough-75s.mp4)
+https://github.com/user-attachments/assets/76f77e46-9212-4272-99f8-a0d4b851fbde
 
-**[Watch the 75-second walkthrough](https://github.com/tianyurx/tianyurx/blob/main/xiaoman-walkthrough-75s.mp4)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#xiaoman)
+**[Watch the 75-second walkthrough](https://github.com/user-attachments/assets/76f77e46-9212-4272-99f8-a0d4b851fbde)** · 中文配音 / Chinese narration · [Scope and transcript](DEMO-NOTES.md#xiaoman)
 
 *Screenshot walkthrough, not a continuous screen recording. iOS simulator, replay model and fake data. The alarm example shows the decline path; no real alarm was installed.*
 
