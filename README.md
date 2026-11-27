@@ -18,6 +18,14 @@
 
 **可看：** 假数据模拟器截图导览；开发 MVP，源码私有，尚无公开安装包。真机与真实账户验收仍在推进。
 
+### Telegram Intelligence · 多源聚合与分析
+
+**Creator & developer** — 多源采集、带来源的分析、分主题简报与运行验证。
+
+[展示仓库](https://github.com/tianyurx/telegram-intel-pipeline) · [示例简报](https://github.com/tianyurx/telegram-intel-pipeline/blob/main/digest.md) · [复现与测试](https://github.com/tianyurx/telegram-intel-pipeline#30-秒运行)
+
+**可跑：** 零凭据的合成数据回放，11 项测试；分析为预置 fixture，生产集成和私有分析实现保留私有。
+
 **第二条线：量化研究工程。** [Supertrend：市场上涨还是择时？](https://github.com/tianyurx/supertrend-attribution) — 公开数据、风险对照、成本与样本外结果；10 项测试，可复现。
 
 两段 Demo 均为界面截图导览。使用 AI 辅助开发，并通过规格、代码审阅、测试和人工验证确认行为。
